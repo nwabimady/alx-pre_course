@@ -1,1 +1,2 @@
-up_to_date
+//create up_to_date git command
+function git_update(git_url, branch, path) {}

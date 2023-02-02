@@ -1,2 +1,2 @@
 My first readme
-up_to_date
+function git_update(git_url, branch, path) {}
